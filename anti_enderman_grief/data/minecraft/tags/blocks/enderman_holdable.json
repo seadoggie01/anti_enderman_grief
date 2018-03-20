@@ -1,4 +1,10 @@
+# Yeah... it's this simple now
+# This file has to be named in this way to over-ride the default Minecraft json file.
 {
+	# This tells the game to replace the current enderman_holdable.json with this one
 	"replace":true,
+	
+	# This tells the game that every block that follows should include this tag
+	#	since there are here, none have the tag.
 	"values": []
 }
